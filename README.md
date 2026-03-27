@@ -107,9 +107,8 @@ Me chamo Wesley Passos, tenho 18 anos e sou natural de Vitória. Concluí o ensi
 <img
     align="left"  
     alt="GitHub stats"
-    height="300px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-xi-seven-83.vercel.app/api?username=Wesley-afk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Wesley Passos"
+    src="https://github-readme-stats-xi-seven-83.vercel.app/api?username=Wesley-afk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Wesley%20Passos"
 />
 
 <img
